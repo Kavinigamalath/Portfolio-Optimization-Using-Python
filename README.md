@@ -51,6 +51,7 @@ pip install yfinance numpy pandas matplotlib scipy
 ###  Files to Run
 
 - **`portfolio_optimization.ipynb`**: Main Jupyter Notebook containing code and visualizations.
+- Exported **PDF report** for Task 5 summary.
 
 ---
 
